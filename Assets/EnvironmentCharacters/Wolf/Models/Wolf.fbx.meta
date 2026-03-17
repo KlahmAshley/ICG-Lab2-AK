@@ -5,7 +5,7 @@ AssetOrigin:
   productId: 311465
   packageName: Realistic Furry Wolf
   packageVersion: 1.0
-  assetPath: Assets/Wolf/Models/Wolf.fbx
+  assetPath: Assets/EnvironmentCharacters/Wolf/Models/Wolf.fbx
   uploadId: 733725
 ModelImporter:
   serializedVersion: 22200
